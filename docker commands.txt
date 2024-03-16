@@ -1,0 +1,5 @@
+Build command:
+docker build -t macropay .
+
+Run command:
+docker run -p 3005:3005 macropay
